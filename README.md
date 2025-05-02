@@ -42,9 +42,6 @@ I'm a passionate Frontend Technical Lead with over 8 years of experience in buil
 - [LinkedIn](https://www.linkedin.com/in/ashishjain316)
 - [GitHub](https://github.com/ashishjain316)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishjain316&show_icons=true&theme=radical)
-
 ### 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,33 +50,10 @@ I'm a passionate Frontend Technical Lead with over 8 years of experience in buil
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🔥 My Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishjain316&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</div>
-
-## 🌟 Featured Projects
-- **[Project Name 1]** - Brief description
-  - Technologies used
-  - Key achievements
-- **[Project Name 2]** - Brief description
-  - Technologies used
-  - Key achievements
 
 ## 📫 Connect With Me
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishjain316)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashishjain316)
-[Add more social media badges as needed]
 
 </div>
-
-## �� Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashishjain316&color=green" alt="Profile Views" />
-</div> 
