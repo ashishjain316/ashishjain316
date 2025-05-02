@@ -1,6 +1,10 @@
 # Ashish Jain
 ## Frontend Technical Lead | React Expert | UI/UX Enthusiast
 
+<div align="center">
+  <img src="profile.jpg" alt="Ashish Jain" width="200" style="border-radius: 50%;"/>
+</div>
+
 ### 👋 About Me
 I'm a passionate Frontend Technical Lead with over 8 years of experience in building scalable and performant web applications. I specialize in React, TypeScript, and modern web technologies, with a strong focus on creating exceptional user experiences.
 
